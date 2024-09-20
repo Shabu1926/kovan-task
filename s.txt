@@ -1,0 +1,3 @@
+Schedule Task at Specific Time
+In this example, in below Python code the `scheduling` library to scheduling a daily task of printing a specific message at 10:35 AM. The code enters an infinite loop, checking for pending tasks and executing them while avoiding high CPU usage by incorporating a 1-second sleep interval.
+
